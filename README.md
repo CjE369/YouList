@@ -1,4 +1,4 @@
 # YouList
 Advance Word list genarator written in python
 
-$ git clone https://github.com/Cjbug/YouList && ls && python YouList.py
+<code>$ git clone https://github.com/Cjbug/YouList && ls && cd YouList && python YouList.py</code>
